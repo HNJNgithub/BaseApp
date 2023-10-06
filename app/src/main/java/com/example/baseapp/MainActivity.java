@@ -23,6 +23,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "버튼을 눌렀어요.",
                         Toast.LENGTH_SHORT).show();
             }
-        })
+        });
     }
 }
